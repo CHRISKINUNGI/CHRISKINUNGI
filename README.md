@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate software Enginner </h3>
 
 - 📫 How to reach me **chrskinungi@gmail.com**
 
